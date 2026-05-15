@@ -1,0 +1,13 @@
+torch
+numpy
+gymnasium
+minari
+d3rlpy
+mujoco
+moviepy
+imageio
+imageio-ffmpeg
+pyvirtualdisplay
+matplotlib
+opencv-python
+tqdm
