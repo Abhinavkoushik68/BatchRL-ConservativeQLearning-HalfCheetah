@@ -130,7 +130,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
 - Abhinav Koushik
 
