@@ -96,10 +96,9 @@ Where:
 ```bash
 offline-cql-halfcheetah/
 │
-├── train.py
-├── evaluate.py
+├── batch_rl_halfcheetah_v2.ipynb
 ├── cheetah_agent.d3
-├── videos/
+├── cheetah_running.mp4
 ├── requirements.txt
 └── README.md
 ```
@@ -111,8 +110,8 @@ offline-cql-halfcheetah/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/offline-cql-halfcheetah.git
-cd offline-cql-halfcheetah
+git clone https://github.com/your-username/BatchRL-ConservativeQLearning-HalfCheetah.git
+cd BatchRL-ConservativeQLearning-HalfCheetah
 ```
 
 Install dependencies:
@@ -121,27 +120,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
-
-## ▶️ Training
-
-Run training:
-
-```bash
-python train.py
-```
-
----
-
-## 🎮 Evaluation
-
-Evaluate the trained agent:
-
-```bash
-python evaluate.py
-```
-
----
 
 ## 📚 References
 
